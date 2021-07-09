@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Utils</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="Contact_number">Contact Number</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+
+</resources>
